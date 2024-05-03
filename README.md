@@ -1,0 +1,1 @@
+# Fabric.js_vertical_text_html
